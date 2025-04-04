@@ -1,0 +1,9 @@
+site_name: Robô 01 - Solicitação de Pagamento
+nav:
+  - Home: 'index.md'
+  - Configurações: 'settings.md'
+  - Execução: 'execution_project.md'
+  - Uso de API: 'api.md'
+
+markdown_extensions:
+ - pymdownx.emoji
